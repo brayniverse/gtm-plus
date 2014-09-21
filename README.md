@@ -1,6 +1,3 @@
-# GTM UI Fixes
+# GTM +
 
-This plugin fixes some irritating interface issues with Google Tag
-Manager.
-
-- Search Tags, Macros & Rules in the sidebar
+GTM+ fixes irritating interface issues for Google Tag Manager. For example, adds search fields in the sidebar.
