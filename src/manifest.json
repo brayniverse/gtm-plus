@@ -3,7 +3,7 @@
 
 	"name": "GTM+s",
 	"description": "GTM+ fixes irritating interface issues for Google Tag Manager. For example, adds search fields in the sidebar.",
-	"version": "1.0",
+	"version": "1.1.2",
 
 	"content_scripts": [
 		{
