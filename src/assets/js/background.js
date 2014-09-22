@@ -55,4 +55,6 @@
 			macroListContainer.insertBefore(macroSearchInput, macroListContainer.querySelector('li'));
 		}
 	}
+	
+	injectSearchFields();
 }(window, document));
